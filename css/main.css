@@ -1,0 +1,132 @@
+body{
+  background-color:gray;
+}
+h1 {
+  
+  margin:28px; 
+  
+}
+
+.yt {
+  
+  margin:50px;
+  margin-left:29px;
+  margin-bottom:10px;
+  margin-top:60px
+ 
+  
+    
+  
+}
+  
+.me {
+  
+  margin:50px;
+  margin-left:29px;
+  margin-bottom:15px;
+  margin-top:30px
+  
+}
+
+.email {
+  
+  margin-left:29px;
+  
+}
+
+.phone {
+  
+  margin-left:29px;
+  margin-top:3px
+    
+}
+
+.insta {
+  
+  margin-left:29px;
+  margin-top:3px;
+  
+}
+
+.one {
+  
+  float:right;
+  margin-top:-280px;
+  margin-right:500px
+    
+  
+}
+
+.two {
+  
+  float:right;
+  margin-top:-220px;
+  margin-right:500px
+  
+}
+
+.three {
+  
+  float:right;
+  margin-top:-160px;
+  margin-right:500px;
+  
+}
+
+.four {
+  
+  float:right;
+  margin-top:-100px;
+  margin-right:500px;
+  
+  
+}
+
+.five {
+  
+  float:right;
+  margin-top:-40px;
+  margin-right:500px
+    
+}
+
+.motiv {
+  
+  float:right;
+  margin-top:-280px;
+  margin-right:250px;
+  
+}
+
+.upload {
+  
+  float:right;
+  margin-top:-220px;
+  margin-right:278px;
+  
+}
+
+.style {
+  
+  float:right;
+  margin-top:-160px;
+  margin-right:301px;
+  
+}
+
+.content {
+  
+  float:right;
+  margin-top:-100px;
+  margin-right:198px;
+  
+}
+
+.gear {
+  
+  float:right;
+  margin-top:-40px;
+  margin-right:290px;
+  
+}
+    
